@@ -1,39 +1,47 @@
-# Web Development Project 1 - *Speedrun Community Tracker*
+# Web Development Project 1 - *Name of App Here*
 
-Submitted by: **Doniyor Nimatullo**
+Submitted by: **Your Name Here**
 
-This web app: **Speedrun Community Tracker which displays title, author, game, time, category as well as thumbnail of video with hyperlink to it.**
+This web app: **insert description**
 
-Time spent: **2** hours spent in total
+Time spent: **X** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [x] **There is a unique theme for events or resources relevant to a specific community**
-- [x] **At least 10 unique resources or events are displayed in a responsive card format**
+- [ ] **There is a unique theme for events or resources relevant to a specific community**
+- [ ] **At least 10 unique resources or events are displayed in a responsive card format**
 
 The following **optional** features are implemented:
 
-- [x] Buttons or links to a related resources are on each card component
-- [x] The site is responsive for both desktop and mobile formats
+- [ ] Buttons or links to a related resources are on each card component
+- [ ] The site is responsive for both desktop and mobile formats
 
+The following **additional** features are implemented:
+
+* [ ] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://i.imgur.com/N8DxMWm.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjg1ZTRkNGYwZjczN2M3NWJjYzg4NmQxZDNjODc2ZDU1MDY0NjhjNyZjdD1n/UcWlBJ7CdaqYVWK8Th/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-Kooha (Linux)
+<!-- Recommended tools:
+[Kap](https://getkap.co/) for macOS
+[ScreenToGif](https://www.screentogif.com/) for Windows
+[peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
-The main challenge was setting up the flexbox to neatly present everything and scale to the window size.
+Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2023] [Doniyor Nimatullo]
+    Copyright [yyyy] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
